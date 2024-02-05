@@ -1,0 +1,9 @@
+body{
+    margin: 100px ;
+}
+
+div{
+  background-color: cadetblue;
+  text-align: center;
+  flex-direction: column;
+}
